@@ -559,7 +559,7 @@ Ethical considerations, data privacy, and computational costs are key challenges
 1. Identifying Key Trends in Education Technology (EdTech):
 
 Mobile-First Approach:
-Teachers and parents increasingly rely on smartphones. Your software needs to be highly mobile-responsive or offer dedicated mobile apps.   
+Teachers and parents increasingly rely on smartphones. My software needs to be highly mobile-responsive or offer dedicated mobile apps.   
 This informs development by making mobile user experience a top priority.   
 
 Cloud-Based Solutions:
